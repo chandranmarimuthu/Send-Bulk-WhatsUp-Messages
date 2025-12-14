@@ -1,4 +1,3 @@
-# Automate-Tools
 # 💬 WhatsApp Bulk Message Sender
 
 Automated tool to send WhatsApp messages to multiple contacts from a CSV file. Uses Selenium to open WhatsApp Web once and send messages one-by-one, avoiding WhatsApp's rate limiting policies.
